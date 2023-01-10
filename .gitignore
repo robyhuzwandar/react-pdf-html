@@ -2,7 +2,6 @@
 
 # output directories
 coverage/
-dist/
 .build/
 
 env/
